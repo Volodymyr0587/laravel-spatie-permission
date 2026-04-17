@@ -8,8 +8,6 @@
 
 `php artisan key:generate`
 
-`create mysql database laravel_spatie_permission`
-
 `php artisan migrate`
 
 `php artisan storage:link`
@@ -22,5 +20,6 @@
 
 `php artisan serve`
 
-
 Login with email `admin@gmail.com` and password `password`
+
+This project uses a SQLite database for simplicity
